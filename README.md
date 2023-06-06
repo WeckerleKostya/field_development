@@ -1,4 +1,4 @@
-# 8_field_development
+# field_development
 # Описание проекта
 
 * Отрасль: нефтедобыча
