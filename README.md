@@ -35,7 +35,7 @@
 
 **Основные инструменты:** `Python`, `Bootstrap`, `Scikit-learn`
 
-**Направление деятельнсоти:** `Machine Learning`, `Regression`
+**Направление деятельности:** `Machine Learning`, `Regression`
 
 # Выводы
 
